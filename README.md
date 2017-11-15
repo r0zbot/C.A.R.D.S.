@@ -11,4 +11,4 @@ RPG ( de mesa ) é um jogo de interpretação. Nesse jogo, os jogadores interpre
 
 De maneira geral, o objetivo de uma "partida" de rpg ( conhecida como sessão ) é a vivenciar uma boa historia e se divertir em grupo, seja matando goblins, investigando crimes, se juntando a algum lorde das trevas ou só roubando e atacando o personagem dos outros jogadores. Desde que todos se divirtam, tudo vale!
 
-Como o conceito de jogar o rpg
+Como o conceito do rpg é muito podero e ao mesmo tempo abstrato, são criados "sistemas". Esses sistemas definem as regras do universo e do jogo
