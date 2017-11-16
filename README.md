@@ -11,4 +11,16 @@ RPG ( de mesa ) é um jogo de interpretação. Nesse jogo, os jogadores interpre
 
 De maneira geral, o objetivo de uma "partida" de rpg ( conhecida como sessão ) é a vivenciar uma boa historia e se divertir em grupo, seja matando goblins, investigando crimes, se juntando a algum lorde das trevas ou só roubando e atacando o personagem dos outros jogadores. Desde que todos se divirtam, tudo vale!
 
-Como o conceito do rpg é muito podero e ao mesmo tempo abstrato, são criados "sistemas". Esses sistemas definem as regras do universo e do jogo
+Como o conceito do rpg é muito podero e ao mesmo tempo abstrato, são criados "sistemas". Esses sistemas definem as regras do universo e do jogo, e a maneira geral das mecanicas do jogo, isso é, "como ele deve ser jogado". Esse termo é usado livremente, uma vez que ele deve ser jogado como os jogadores acharem melhor e da maneira mais divertida para todos. Assim, essas "regras" não passam de diretrizes para quem for jogar.
+
+Na maioria dos sistemas, o jogo ocorre em turnos. A cada turno, os jogadores declaram o que querem que o seu personagem faça, um por vez. Dependendo da ação, o jogador pode precisar realizar um teste ( mais sobre isso a diante ). Depois de realizado o turno de cada jogador, o mestre vai interpretar o resultado de suas ações e vai descrever o que ocorreu na historia devido a essas ações. Feito isso, uma rodada acaba e outra se inicia, e o ciclo continua.
+
+- Parece bem legal! O que mais eu deveria saber?
+
+Deixaremos as regras desse sistema mais para frente. Por enquanto, é importante o conhecimento de algumas termologias:
+
+	* Mestre: O narrador do jogo. Ele não somente descreve o cenario, escreve a aventura dos jogadores e interpretra qualquer outro personagem NPC. O mestre gerencia os acontecimentos durante a aventura, resolver conflitos entre jogadores, explica as regras quando necessario, controlar os personagens dos jogadores quando necessario, cria as suas proprias regras ( ou remove as regras já existentes ) e decide o que aconteceu de verdade. Em geral, a palavra do mestre sempre é final em qualquer situação.
+
+	* Jogador: As outras pessoas além do mestre. Essas são personagens na historia, cada um controlando o seu proprio. A responsabilidade do jogador é saber as regras, cuidar do seu personagem e de sua ficha além de conhecer e ser capaz de interpretar o personagem que ele criou. 
+
+	*NPC: Personagens não jogaveis ( Non-Playable Characters ). São personagens da historia que não possuem jogadores. Esses podem ser reis, mercantes, animais domesticos, espiritos. De maneira geral, qualquer criatura viva ( ou no minimo, consciente ) que não pertencer a um jogador é um NPC. A interpretração e ação dos NPCs é de cargo do Mestre.
