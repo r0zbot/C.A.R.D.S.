@@ -1,0 +1,86 @@
+Força:
+Combate corpo a corpo - Personagem é capaz de lutar usando socos, chutes, cabeçadas e demais
+ataques que dependam exclusivamente de seu corpo.
+-----------------------------------------------------------------------------------------------------
+Armas de impacto - Personagem é capaz de manejar armas de impacto como martelos, maças, tonfas,
+escudos, chicotes ou cacetetes.
+-----------------------------------------------------------------------------------------------------
+Armas cortantes - Personagem é capaz de manejar armas cortantes como espadas, facas, lanças, 
+machados ou foices.
+-----------------------------------------------------------------------------------------------------
+Resistência física - Personagem é capaz de sobreviver a situações extremas com mais facilidade,
+como ficar muito tempo sem comer, segurar a respiração embaixo da água, caminhar por um deserto
+muito quente ou carregar muito peso.
+-----------------------------------------------------------------------------------------------------
+Defesa - Personagem é capaz de bloquear ataques com mais facilidade, seja para defesa própria
+ou para defender os outros, através do uso de escudos ou do seu próprio corpo.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Destreza:
+Armas de fogo - Personagem é capaz de manejar armas de fogo como rifles, shotguns ou pistolas. 
+Isso inclui não apenas sua utilização em combate, mas também a realização de manutenção dessas armas.
+-----------------------------------------------------------------------------------------------------
+Armas de projéteis - Personagem é capaz de manejar armas de projéteis como arco-e-flecha, bestas,  
+estilingues ou dardos. Isso inclui não apenas sua utilização em combate, mas também a realização de 
+manutenção dessas armas, assim como a possibilidade de forja de flechas/dardos com características 
+especiais.
+-----------------------------------------------------------------------------------------------------
+Instinto de sobrevivência - Personagem tem capacidades de auto-preservação além do normal - consegue 
+fazer decisões de forma rápida e precisa, conseguindo se esquivar com mais facilidade de ataques 
+direcionados a ele, assim como evitar armadilhas.
+-----------------------------------------------------------------------------------------------------
+Condução - Personagem é capaz de conduzir qualquer tipo de veículo, como carros, cavalos, carroças, 
+helicópteros, submarinos, motocicletas, caravelas ou qualquer tipo de animal montável, assim como
+realizar sua manutenção.
+-----------------------------------------------------------------------------------------------------
+Ofícios - Personagem é capaz de realizar diversas tarefas manuais como costurar uma roupa, fazer
+artesanato, forjar armas e armaduras, montar uma mesa, cuidar de uma plantação ou construir armadilhas 
+elaboradas contanto que possua os materiais para tal.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Inteligência:
+Magias elementais - Personagem é capaz de realizar magias que fazem uso dos elementos* naturais, como
+lançar uma bola de fogo, provocar um tsunami ou conjurar uma tempestade.
+-----------------------------------------------------------------------------------------------------
+Magias de performance - Personagem é capaz de realizar magias que alteram o estado de outros
+personagens/npcs (aka buffs/debuffs), como aumentar/diminuir certos atributos, colocar alguém
+para dormir ou deixar alguém confuso/em pânico. 
+-----------------------------------------------------------------------------------------------------
+Fortitude mental - Personagem é capaz de manter a sanidade em situações extremas com mais facilidade,
+como resistir a magias de estado* ou ilusões, realizar tarefas repetitivas ou lidar com situações 
+em que o personagem esteja sob intensa pressão psicológica. 
+-----------------------------------------------------------------------------------------------------
+Mecatrônica - Personagem é capaz de operar, construir (contanto que possua os materiais para tal) e 
+realizar a manutenção de equipamentos mecânicos e eletrônicos, como robôs, computadores, radares,
+câmeras ou sensores. 
+-----------------------------------------------------------------------------------------------------
+Trapaça - Personagem é capaz de formular maneiras de burlar regras sem ser punido, como realizar
+forja de documentos, hackear programas de computador, manipular jogos de azar em seu favor ou
+passar em testes arbitrários.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carisma:
+Diplomacia - Personagem é capaz de encontrar soluções pacíficas para conflitos com mais facilidade,
+influenciando a ação de seus interlocutores através de argumentos persuasivos e fazendo-os acreditar
+que estão tomando a melhor decisão, o que nem sempre é verdade.
+-----------------------------------------------------------------------------------------------------
+Entretenimento - Personagem é capaz de entreter uma audiência exigente por uma quantia razoável de
+tempo, seja através de dança, canto, atuação, humor ou até mesmo narrando histórias. Consegue ser 
+agradável, de maneira geral, conseguindo assim o favor de seus interlocutores com mais facilidade. 
+-----------------------------------------------------------------------------------------------------
+Comunicação não-verbal - Personagem é capaz de controlar suas expressões e linguagem corporal de modo
+a conseguir passar a impressão desejada para seus interlocutores, assim como extrair informação sobre
+a situação de maneira análoga.
+-----------------------------------------------------------------------------------------------------
+Negociação - Personagem é capaz de influenciar trocas e transações a seu favor com mais facilidade,
+como barganhar por itens numa loja, vender itens inúteis por preços exorbitantes ou trocar uma
+pedra de sal por uma espada lendária.
+-----------------------------------------------------------------------------------------------------
+Discrição - Personagem é capaz realizar tarefas perigosas de maneira inócua, sem levantar suspeitas,
+assim como não chamar atenção em multidões e passar despercebido na maioria das situações.
+-----------------------------------------------------------------------------------------------------
+
+*Quais seriam esses elementos/estado e qualquer coisa relacionada ao uso de magia ainda está para ser decidido
