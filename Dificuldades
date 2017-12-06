@@ -1,0 +1,22 @@
+Dificuldades:
+>> Fáceis:
+0: 0 - trivial
+1: 2 - 1 carta
+2: 5 - 1 carta
+3: 9 - 1 carta alta/pares
+4: 12 - 1 carta bem alta/pares 
+5: 20 - par de 8
+
+>> Médias:
+6: 25 - par de K/dois pares
+7: 37 - dois pares de K/trincas
+8: 54 - trinca de 6/sequência
+9: 72 - sequência qualquer
+10: 85 - sequência contendo K/flush
+
+>> Difíceis:
+11: 96 - full house
+12: 109 - full house com K/quadras
+13: 133 - quadra com K/straight flushes
+14: 157 - straight flush com K
+15: 183 - straight flush com K + 26 randomizer

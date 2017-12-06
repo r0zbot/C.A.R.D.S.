@@ -1,0 +1,14 @@
+Valores das combinações:
+
++Carta: v
++Par: v + 12
++2 pares: v + 24
++Trinca: v + 48
++Sequência: v + 72
++Flush: v + 84
++Full house: v + 96
++Quadra: v + 120
++Straight flush: v + 144
+
+Obs: v é o valor da maior da mão
+
