@@ -1,4 +1,4 @@
-#Força:
+# Força:
 
 >Atletismo - Usada para qualquer atividade física, como nadar, correr, escalar, lançar algum objeto. Enquanto ações rotineiras não precisam de testes ( como correr até ali, nadar no clube, e similares ), essas perícia é reservada para casos de uso prolongado ( correr uma maratona, escalar uma montanha ) ou casos complicados ( nadar contra a correnteza, passar uma bola para uma pessoa a 50 metros de distancia no meio de uma multidão ). Armas de lançamento, como javelins, dardos e similares, estão inclusas nessa perícia.
 
@@ -15,7 +15,7 @@ escudos, chicotes ou cacetetes.
 >Armas cortantes - Personagem é capaz de manejar armas cortantes como espadas, facas, lanças, 
 machados ou foices.
 
-#Destreza:
+# Destreza:
 
 >Armas de longo alcance - Personagem é capaz de manejar armas de fogo como rifles, escopetas ou pistolas, assim como armas
 a base de lançamento de projéteis como arcos, bestas, estilingues ou dardos. Inclui também a operação de armas de cerco
@@ -32,7 +32,7 @@ fazer decisões de forma rápida e precisa. Representa um certo nível de treina
 
 >Ofícios - Manufatura e construção de objetos, tanto a mão quanto com o uso de maquinas especificas para isso ( forjas, maquinas de corte a laser, braços mecânicos e similares ). Inclui, também, conhecimento na área de resistência dos materiais, ligas metálicas, refinamento de diversos materiais, polimentos, reparo de objetos e similares. Note que um personagem com ofícios conhece o processo de criação de objetos  simples ou mecânicos ( roupas, brinquedos de madeira, elevadores, espadas, bombas de agua, armas de fogo, similares ), mas a criação de objetos mágicos ou equipamentos eletrônicos vão além do seu conhecimento.
 
-#Inteligência:
+# Inteligência:
 
 >Investigação - Usada quando o personagem deseja investigar um local em busca de pistas, objetos escondidos, passagens secretas e similares. Representa tanto a atenção a detalhes do personagem quanto raciocínio lógico de sua parte para entender a cena. Além disso, o ato de investigar algum caso, isso é, pensar em pessoas a quem falar, criar teorias sobre o que pode ter acontecido, notar a falta de um objeto na cena, ver se um objeto foi posto posteriormente na cena e similares também estão inclusas nessa perícia.
 
@@ -48,7 +48,7 @@ em que o personagem esteja sob intensa pressão psicológica.
 
 >Encantamentos - Criação de objetos mágicos. Com criação, nos referimos a um encantamento, o ato de encravar e inserir magia em um objeto inanimado. O personagem com essa perícia sabe encravar nomes, elementos, propriedades e similares em objetos, tanto na questão teórica ( as runas necessárias ) quanto na prática ( pelo uso das ferramentas especificas ). Outras tarefas também no alcance do personagem são a análise e remoção de propriedades mágicas de objetos já existentes, como também a adição de novas.
 
-#Carisma:
+# Carisma:
 
 >Performance - Dançar, cantar, interpretar, imitar, fingir, mentir, enganar. A performance implica no treinamento do personagem nas artes cênicas e sua capacidade de interpretar e se expressar por meio de palavras e gestos. Além do uso obvio, como peças de teatro e cantorias em bares, a performance também é aplicada quando o personagem quer imitar alguma outra persona que não é a dele, isso é, quer fingir ser diferente do usual. Com um sucesso bom o suficiente, isso pode permitir que o personagem realize diversas ações sem recorrer ao uso de persuasão. Essa perícia também afeta o uso de instrumentos musicais, em geral os mais comuns, como piano, guitarra, violão, baixo, violino, bateria e similares.
 
