@@ -45,8 +45,24 @@ Obs: Onde não estiver especificado, o rank do personagem será 1.
 #### Carisma: Rank 2
 >Performance 2
 
-### Primordial: Rank 5
+#### Primordial: Rank 5
 >Hibridismo 3
+
+### Time Lord
+#### Força: Rank 2
+>Acrobacias 1 / Armas cortantes 1
+
+#### Inteligência: Rank 4
+>Investigação 2 / Fortitude mental 2
+
+#### Carisma: Rank 3
+>Persuasão 2
+
+#### Quantum: Rank 5
+>Espaço 1 / Tempo 3
+
+#### Animus: Rank 2
+>Telepatia 2
 
 ### Primordial Mage
 #### Destreza: Rank 2
@@ -80,18 +96,19 @@ Obs: Onde não estiver especificado, o rank do personagem será 1.
 #### Animus: Rank 5
 >Ilusionismo 3
 
-### Time Lord
+
+### Alchemist
 #### Força: Rank 2
->Acrobacias 1 / Armas cortantes 1
+>Combate corpo a corpo 1
 
-#### Inteligência: Rank 4
->Investigação 2 / Fortitude mental 2
+#### Destreza: Rank 4
+> Discrição 2 / Ofícios 2
 
-#### Carisma: Rank 3
->Persuasão 2
+#### Inteligência: Rank 3
+> Investigação 1 / Fortitude mental 1
 
-#### Quantum: Rank 5
->Tempo 3
+#### Quantum: Rank 2
+>Espaço 1
 
-#### Animus: Rank 2
->Telepatia 2
+#### Genesis: Rank 5
+>Alquimia 3 / Materiais 2
