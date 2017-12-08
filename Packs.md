@@ -1,4 +1,4 @@
-## Cavaleiro
+### Cavaleiro
 #### Força: Rank 4                    
 >Armas cortantes 3 / Atletismo  2
 
@@ -14,7 +14,7 @@
 #### Animus: Rank 1
 >Telecinese 1
 
-## Caçador
+### Caçador
 #### Força: Rank 2
 >Combate corpo a corpo 2
 
@@ -30,7 +30,7 @@
 #### Quantum: Rank 2
 >Invisibilidade 2
 
-## Cavaleiro arcano
+### Cavaleiro arcano
 #### Força: Rank 3
 >Armas de impacto 3
 
@@ -46,7 +46,7 @@
 ### Primordial: Rank 2
 >Hibridismo 2
 
-## Magitech
+### Magitech
 #### Inteligência: Rank 4
 >Fortitude mental 3 / Engenharia eletrônica 1
 
@@ -60,7 +60,7 @@
 >Materiais 2 / Geociências 1
 
 ### Trickster
-### Destreza: Rank 2
+#### Destreza: Rank 2
 >Instinto de sobrevivência 2
 
 #### Inteligência: Rank 2
