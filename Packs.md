@@ -67,8 +67,7 @@
 >Trapaça 2
 
 #### Carisma: Rank 3
->Persuasão 2
->Performance 2
+>Persuasão 2 / Performance 2
 
 #### Animus: Rank 3
 >Ilusionismo 3
