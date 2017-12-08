@@ -17,9 +17,9 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Telecinese 1
 
 #### Inventário:
->Espada de duas mãos ( 5 )
->Armadura Leve ( 1 )
->Kit medico de bolso ( Esparadrapos, curativos, álcool gel )
+  >Espada de duas mãos ( 5 )
+  >Armadura Leve ( 1 )
+  >Kit medico de bolso ( Esparadrapos, curativos, álcool gel )
 
 ---
 
@@ -40,11 +40,11 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Invisibilidade 2
 
 #### Inventário:
-> Pistola ( 6 )
-> Revolver ( 8 )
-> Silenciador para pistolas
-> 2 cartuchos para pistolas ( 15 balas cada )
-> 12 balas para revolveres
+  > Pistola ( 6 )
+  > Revolver ( 8 )
+  > Silenciador para pistolas
+  > 2 cartuchos para pistolas ( 15 balas cada )
+  > 12 balas para revolveres
 
 ---
 
@@ -65,8 +65,8 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Hibridismo 1 / Vida 3
 
 #### Inventário:
-> Martelo de duas mãos elemental ( 8 )
-> Armadura leve encantada ( 2 )
+  > Martelo de duas mãos elemental ( 8 )
+  > Armadura leve encantada ( 2 )
 
 ---
 
@@ -85,9 +85,11 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Espaço 1
 
 #### Inventário:
-> Maça de uma mão ( 4 )
-> Escudo Swat ( 2 )
-> Armadura Pesada ( 3 )
+  > Maça de uma mão ( 4 )
+  > Escopeta ( 10 )
+  > 20 shells para escopetas
+  > Escudo Swat ( 2 )
+  > Armadura Pesada ( 3 )
 
 ---
 
@@ -106,9 +108,9 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Invisibilidade 2
 
 #### Inventário:
->Sniper ( 12 )
->2 cartuchos para snipers ( 25 balas cada )
->Mantos camuflados ( Floresta, Vegetação, Cidade, Deserto )
+  >Sniper ( 12 )
+  >2 cartuchos para snipers ( 25 balas cada )
+  >Mantos camuflados ( Floresta, Vegetação, Cidade, Deserto )
 
 ---
 
@@ -129,9 +131,9 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Materiais 2 / Geociências 2
 
 #### Inventário:
-> Manto Encantado ( 2 )
-> Diversos Aparelhos Eletronicos ( Óculos de Visão Norturna, Radares/Sonares, GPS. Sensores de Calor/Radiação, etc )
-> Pequeno Drone Voador Automato que segue seus comandos ( Possue cameras, disposito de voz e uma garra para pegar objetos. Não pode lUtar )
+  > Manto Encantado ( 2 )
+  > Diversos Aparelhos Eletronicos ( Óculos de Visão Norturna, Radares/Sonares, GPS. Sensores de Calor/Radiação, etc )
+  > Pequeno Drone Voador Automato que segue seus comandos ( Possue cameras, disposito de voz e uma garra para pegar objetos. Não pode lUtar )
 
 ---
 
@@ -152,9 +154,9 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Telepatia 2
 
 #### Inventário:
-> Espada Curta de uma mão ( 4 )
-> Cronômetro imune a magias de tempo
-> Cristal marcador usado para definir locais de chegada para teleportes
+  > Espada Curta de uma mão ( 4 )
+  > Cronômetro imune a magias de tempo
+  > Cristal marcador usado para definir locais de chegada para teleportes
 
 ---
 
@@ -175,7 +177,7 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Materiais 2 / Geociências 1
 
 #### Inventário:
->Manto Elemental ( 3 contra elementos primordiais )
+  >Manto Elemental ( 3 contra elementos primordiais )
 
 ---
 
@@ -196,11 +198,11 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Ilusionismo 3
 
 #### Inventário:
->Kit de arrombamento
->Computador de bolso para hackear dispositivos eletronicos
->5 Bombinhas sonoras fracas usadas para distração
->3 Granadas de fumaça
->Roupa Camuflada ( Preta, Cinza, Vegetação )
+  >Kit de arrombamento
+  >Computador de bolso para hackear dispositivos eletronicos
+  >5 Bombinhas sonoras fracas usadas para distração
+  >3 Granadas de fumaça
+  >Roupa Camuflada ( Preta, Cinza, Vegetação )
 
 ---
 
@@ -221,8 +223,8 @@ Obs: Onde não estiver especificado, o rank do personagem será 1. Os valores em
 >Alquimia 3 / Materiais 2
 
 #### Inventário:
->3 poções de vida simples ( retornam em um o rank de saúde )
->1 poção de vida potente ( retorna o personagem para saúdavel )
->2 poções de efeito variado ( escolher entre sono, veneno ou ácido forte )
->3 explosivos fortes
->Mala pequena com ferramentas para preparação de poções
+  >3 poções de vida simples ( retornam em um o rank de saúde )
+  >1 poção de vida potente ( retorna o personagem para saúdavel )
+  >2 poções de efeito variado ( escolher entre sono, veneno ou ácido forte )
+  >3 explosivos fortes
+  >Mala pequena com ferramentas para preparação de poções
