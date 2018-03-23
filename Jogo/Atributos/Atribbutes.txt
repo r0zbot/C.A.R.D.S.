@@ -1,0 +1,27 @@
+Atributos Fisicos ~ 2 sendo base ( media da populacao ), 5 sendo sobrehumano
+
+
+	Forca			Destreza			Inteligencia			Carisma
+
+
+1	fraco			atrapalhado			iliterado			solitario
+
+2	normal			nao cai				ensino medio			conversa as vezes
+
+3	esportes		malabarista			faculdade			atencao do grupo
+
+4	musculacao		corda bamba			phd				conquista multidoes
+
+5	hulk			matrix				google				dominacao global
+
+
+
+Atributos Magicos ~ 0 sendo base ( media da populacao ), 1 sendo sobrehumano
+
+
+	Quantum			Primordial			Animus				Genesis
+
+
+1	------------------------------------( Reconhece magias da area )--------------------------------
+
+2,3,4,5 -----------------------------------------( Ver o Spellbook )------------------------------------
